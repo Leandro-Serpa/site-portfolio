@@ -63,3 +63,10 @@ function showName(name){
 ```py
 print("Bem vindo, qual seu nome?")
 ```
+
+Propriedade | Descrição 
+----------- | --------
+name | Informar o nome do usuário
+size | Para definir o tamanho do campo
+background | Cor do fundo da area em HEX
+onPress | Funcao chamada quando clicar no botão
