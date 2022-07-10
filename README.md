@@ -8,5 +8,9 @@ Nesse curso você vai dominar todo **git** e **github** do _zero ao profissional
 * Aprendendo sobre branches
 * Git Avançado
 
+1. Começando com git
+2. Aprendendo sobre branches
+3. Git Avançado
+
 ### Rede social:
 [Linkedin](https://www.linkedin.com/in/leandrosilvaserpa/)
